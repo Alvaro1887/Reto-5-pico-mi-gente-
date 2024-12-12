@@ -42,7 +42,7 @@
 ## Punto 6
 ### Consultar qué es y cómo funciona *pip* en python.
 - "pip" es un sistema de gestión de paquetes para tener control sobre los paquetes de software escrito para Python, con este sistema tenemos la capacidad de: actualizar, instalar, administrar u eliminar bibliotecas o modulos que no se encuentran incluidos en la instalación básica de Python.
-- "pip" tiene varias funciones, algunos de los comandos más comunes y su función son:
+- "pip" tiene varias funciones, algunos de los comandos más comunes que encontramos en estas son:
 
 <table cellspacing="1" bgcolor="">
 	<tr bgcolor="#252582">
