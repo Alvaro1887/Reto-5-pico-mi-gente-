@@ -82,6 +82,7 @@
 		<td style="color:#141414">Instala todos los paquetes listados en un archivo `requirements.txt`.</td>
 	</tr>
 </table>
+			
 ## Punto 7
 ### Listado de módulos populares para python que se pueden instalar con "pip" y la ruta sobre como instalarlo.
 
